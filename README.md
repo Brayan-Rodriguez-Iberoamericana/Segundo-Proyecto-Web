@@ -21,4 +21,4 @@ Proyecto backend con Node.js, Express y MongoDB.
 
 ## Ver proyecto en línea
 
-[Click aquí para ver el proyecto en GitHub Pages](https://brayan-rodriguez-iberoamericana.github.io/mi-segundo-proyecto-br/)
+[Click aquí para ver el proyecto en GitHub Pages](https://brayan-rodriguez-iberoamericana.github.io/Segundo-Proyecto-Web/)
