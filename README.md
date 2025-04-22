@@ -1,4 +1,4 @@
-# backend-proyecto-300h
+# Backend-proyecto-300h
 
 ¡Bienvenido a mi proyecto backend con Node.js, Express y MongoDB desarrollado en el diplomado de desarrollo web!
 
